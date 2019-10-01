@@ -1,0 +1,1 @@
+Linux is an operating system or a kernel. It is distributed under an open source license. Its functionality list is quite like UNIX. 
